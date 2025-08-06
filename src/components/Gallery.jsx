@@ -4,12 +4,12 @@ import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 
 const images = [
-  "/images/gallery1.jpg",
-  "/images/gallery2.jpg",
-  "/images/gallery3.jpg",
-  "/images/gallery4.jpg",
-  "/images/gallery5.jpg",
-  "/images/gallery6.jpg",
+  "/my-portfolio/images/gallery1.jpg",
+  "/my-portfolio/images/gallery2.jpg",
+  "/my-portfolio/images/gallery3.jpg",
+  "/my-portfolio/images/gallery4.jpg",
+  "/my-portfolio/images/gallery5.jpg",
+  "/my-portfolio/images/gallery6.jpg",
 ];
 
 const Gallery = () => {
